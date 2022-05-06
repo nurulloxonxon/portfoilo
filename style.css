@@ -312,7 +312,10 @@ transform: translateX(400px) ;
      flex-direction: column;
  }
 .blog{
- transform: translateY(-900px) translateX(560px);
+ transform: translateY(-800px) translateX(560px);
+}
+.blog h1{
+  padding-bottom: 100px;
 }
 .blog{
     width: 80px;
